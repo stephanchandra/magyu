@@ -1,0 +1,2 @@
+# magyu
+ini repository baru
